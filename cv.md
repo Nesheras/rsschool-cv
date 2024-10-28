@@ -1,10 +1,6 @@
 # Sergey Meshcheryakov
 
----
-
-### Contacts
-
----
+### Contacts:
 
 - Location: Voronezh, Russia
 - Phone: +7 904-211-39-07
@@ -13,15 +9,11 @@
 
 ---
 
-### About Me
-
----
+### About Me:
 
 I'm passionate about studying web technologies, and I genuinely enjoy the learning process. I love diving into the details of code, understanding how interfaces work, and uncovering what makes for a great user experience. Each new project or skill isn't just a step in my education—it's an opportunity to improve my craft and bring exciting ideas to life.
 
 ### Skills and Proficiency:
-
----
 
 - HTML5, CSS3,CSS Modules
 - JS,TS
@@ -59,11 +51,11 @@ return result
 
 - VGAU
 
-* Specialty agroengineering
+  - Specialty agroengineering
 
 - Tomsk State University
 
-* Web Developer
+  - Web Developer
 
 ---
 
